@@ -6,7 +6,7 @@ export const properties = {
     metadata: {
         /** 製作者の名前 */
         authors: [
-        // "静空"
+            "静空"
         ]
     },
     header: {
