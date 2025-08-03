@@ -4,7 +4,7 @@
 - @minecraft/server-ui - 2.0.0
 
 ## Description
-This is a template repository with a fully configured TypeScript environment.
+This behavior pack functions as the central GameManager for the Werewolf game. It is designed with version resilience in mind, ensuring compatibility across future updates of Minecraft Werewolf.
 
 ## Runtime
 - Node.js

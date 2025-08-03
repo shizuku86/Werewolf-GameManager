@@ -11,11 +11,11 @@ export const properties = {
         ]
     },
     header: {
-        name: "Werewolf-dev-template",
+        name: "Werewolf-GameManager",
         description: "",
         min_engine_version: [ 1,21,90 ],
         version: [ 1,0,0 ],
-        uuid: "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+        uuid: "3aadab20-832f-457c-9ffb-5d8491f079d3"
     },
     modules: [
         {
@@ -23,7 +23,7 @@ export const properties = {
 			language: "javascript",
 			entry: "scripts/index.js",
             version: "header.version",
-            uuid: "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+            uuid: "083b32e6-7fd3-42f7-92d3-7f146ef48b6d"
         }
     ],
     dependencies: [
